@@ -27,5 +27,6 @@ Ao longo do desenvolvimento, aprendi conceitos importantes de **responsividade**
 ## 🛠️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Fabio-devGlub/Gta-VI.git
+  https://fabio-devglub.github.io/Gta-VI/
+  importante na ultima seção da pagina não ta garegando a imgem nao sei porque o problema e so aqui no github mesmo
 
