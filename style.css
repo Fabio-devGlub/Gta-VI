@@ -237,7 +237,7 @@ body {
   overflow: hidden;
   background:
     linear-gradient(to top, rgba(13, 13, 26, 0.9), transparent 70%),
-    url("../assets/card-trailer.png") center / cover no-repeat;
+    url("assets/card-trailer.png") center / cover no-repeat;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
